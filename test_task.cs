@@ -10,6 +10,7 @@ namespace test_task
         {
             path = pathInput;
         }
+        
         public void ReadTasks()
         {
             if (path != null)
