@@ -20,6 +20,6 @@
 /create-group Разное
 /add-to-group 6 Разное
 /add-to-group 8 Разное
-/add-subtask 6 Купить баранину
+/add-subtask 6 Купить курицу
 /add-subtask 6 Съездить на рынок
 /add-subtask 6 Купить овощей
